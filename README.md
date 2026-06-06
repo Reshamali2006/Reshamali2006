@@ -1,41 +1,43 @@
-# Hi 👋, I'm Resham Ali
+# <div align="center">Hi 👋, I'm Resham Ali</div>
 
-🎓 B.Tech CSE Student
+<div align="center">
 
-💻 Currently working on:
-- C Programming
-- C++
-- Python
+🎓 B.Tech Computer Science Engineering Student
 
-🌱 Learning:
-- Data Structures & Algorithms
-- Software Development
-- Git & GitHub
+💻 C | C++ | Python Developer
 
-🎯 Goals:
-- Become a Professional Software Developer
-- Master Programming and Problem Solving
-- Build Real-World Projects
-- Get a Remote Software Development Job
+🚀 Future Software Engineer & Tech Entrepreneur
 
-## 🛠️ Skills
+</div>
 
-![C](https://img.shields.io/badge/C-Programming-blue)
-![C++](https://img.shields.io/badge/C++-Programming-blue)
-![Python](https://img.shields.io/badge/Python-Programming-yellow)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile!;B.Tech+CSE+Student;Learning+C+C%2B%2B+and+Python;Future+Software+Developer;Building+My+Dream+Career+One+Day+at+a+Time" />
 
-## 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reshamali2006&show_icons=true)
+## 👩‍💻 About Me
 
-## 🔥 Streak Stats
+- 🎓 B.Tech CSE Student
+- 💻 Currently learning C, C++ and Python
+- 📚 Exploring Data Structures & Algorithms
+- 🌱 Learning Git & GitHub
+- 🚀 Building projects and improving coding skills
+- 🎯 Goal: Become a highly skilled Software Developer
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Reshamali2006)
+---
 
-## 📫 Connect With Me
+## 🛠 Tech Stack
 
-- GitHub: https://github.com/Reshamali2006
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" />
+</p>
 
-### 💡 Motto
+---
 
-"Learn, Build, Improve, Repeat."
+## 📈 Learning Progress
+
+```text
+C Programming      ██████████░ 90%
+C++                ████████░░░ 80%
+Python             ███████░░░░ 70%
+Git & GitHub       ██████░░░░░ 60%
+DSA                ████░░░░░░░ 40%
